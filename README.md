@@ -1,2 +1,2 @@
 # newtest
-public test repo
+public test repo for github learning
